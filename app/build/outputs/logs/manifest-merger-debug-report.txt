@@ -1,0 +1,228 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml:2:1-48:12
+MERGED from [com.lapism:searchview:27.1.1.0.0] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/searchview-27.1.1.0.0.aar/a211f7effbfae9d76173d2a245262d7f/AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.mancj:MaterialSearchBar:0.7.5] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/MaterialSearchBar-0.7.5.aar/ae8d1746ccf26d3212b493b1985aed31/AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:design:27.1.1] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/7feb3cd54ebc069d1317f4da18a8189f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/66fb70b2a5bd501c61462263dcddbad4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/26928bca9637c82547f16476edaa9609/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.4.aar/58910988fdca598f7c50f09d3ef133f2/AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/feb735cf774e683249328dbf6d84c23a/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/6391f102b29cb6bd2ea5bd6eb4adfb1d/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/7572ae2e79a1c9aff59645c6c6653cd7/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/9a74e47cbd63e2ab6ec770d4b4a31b4b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android:flexbox:0.3.0] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/flexbox-0.3.0.aar/21421c067b42ac0beab98993e67afd7c/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/20ae8b4816795748ee162067f0103252/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/6844095ae8a38c1ddf1ad1424de5e960/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/fb58f0624a32971209ea6a8a2c0eeee9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/005986d92970a8a1d2a57e4439ac23a7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/ac95915e810d695c4c52a2aa86e9f356/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/709110c3f8f3584dc6c29be3b98137f9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/c4f54e7b21c287ed8f191ca29ab053fb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/703d533196197859ac7100204b26d929/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/a8d8a72091d81e3c9afa58af5b9d510f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/40f4a677903b656735b9d67b6adb84c9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/fa0ddd8f9390f8b8127dc86dfda22e43/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2861bf60a4fda0a17e16de5fe5f7797c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/80529cd20526e703c882cd19f14609a0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/4e8eb539334595b7efb199bf8c031e54/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml:2:1-48:12
+	package
+		ADDED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml:3:5-48
+		INJECTED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml
+		ADDED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml:2:1-48:12
+		INJECTED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml
+		ADDED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml:2:1-48:12
+		INJECTED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.4.aar/58910988fdca598f7c50f09d3ef133f2/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.4.aar/58910988fdca598f7c50f09d3ef133f2/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml:8:22-64
+uses-permission#android.permission.BATTERY_STATS
+ADDED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml:9:5-72
+	android:name
+		ADDED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml:9:22-69
+application
+ADDED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml:13:5-46:19
+MERGED from [com.lapism:searchview:27.1.1.0.0] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/searchview-27.1.1.0.0.aar/a211f7effbfae9d76173d2a245262d7f/AndroidManifest.xml:11:5-47
+MERGED from [com.lapism:searchview:27.1.1.0.0] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/searchview-27.1.1.0.0.aar/a211f7effbfae9d76173d2a245262d7f/AndroidManifest.xml:11:5-47
+MERGED from [com.github.mancj:MaterialSearchBar:0.7.5] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/MaterialSearchBar-0.7.5.aar/ae8d1746ccf26d3212b493b1985aed31/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.mancj:MaterialSearchBar:0.7.5] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/MaterialSearchBar-0.7.5.aar/ae8d1746ccf26d3212b493b1985aed31/AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/26928bca9637c82547f16476edaa9609/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/26928bca9637c82547f16476edaa9609/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.4.aar/58910988fdca598f7c50f09d3ef133f2/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.4.aar/58910988fdca598f7c50f09d3ef133f2/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/feb735cf774e683249328dbf6d84c23a/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/feb735cf774e683249328dbf6d84c23a/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/6391f102b29cb6bd2ea5bd6eb4adfb1d/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/6391f102b29cb6bd2ea5bd6eb4adfb1d/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/7572ae2e79a1c9aff59645c6c6653cd7/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/7572ae2e79a1c9aff59645c6c6653cd7/AndroidManifest.xml:19:5-21:19
+	android:supportsRtl
+		ADDED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml:16:9-41
+	android:roundIcon
+		ADDED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml:17:9-54
+	android:icon
+		ADDED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml:19:9-40
+activity#com.example.galgoren.finalproject.activities.MainActivity
+ADDED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml:20:9-27:20
+	android:name
+		ADDED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml:21:13-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml:25:27-74
+provider#com.example.galgoren.finalproject.db.PlacesProvider
+ADDED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml:29:9-33:40
+	android:enabled
+		ADDED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml:32:13-35
+	android:authorities
+		ADDED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml:31:13-71
+	android:exported
+		ADDED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml:30:13-46
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml:35:9-37:71
+	android:value
+		ADDED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml:37:13-68
+	android:name
+		ADDED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml:36:13-58
+service#com.example.galgoren.finalproject.Service.IntentServiceGooglePlaces
+ADDED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml:39:9-42:40
+	android:enabled
+		ADDED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml:40:13-62
+activity#com.example.galgoren.finalproject.activities.PrefsActivity
+ADDED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml:44:9-62
+	android:name
+		ADDED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml:44:19-59
+activity#com.example.galgoren.finalproject.activities.MapActivity
+ADDED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml:45:9-60
+	android:name
+		ADDED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml:45:19-57
+uses-sdk
+INJECTED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml
+INJECTED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml
+MERGED from [com.lapism:searchview:27.1.1.0.0] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/searchview-27.1.1.0.0.aar/a211f7effbfae9d76173d2a245262d7f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.lapism:searchview:27.1.1.0.0] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/searchview-27.1.1.0.0.aar/a211f7effbfae9d76173d2a245262d7f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.mancj:MaterialSearchBar:0.7.5] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/MaterialSearchBar-0.7.5.aar/ae8d1746ccf26d3212b493b1985aed31/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.mancj:MaterialSearchBar:0.7.5] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/MaterialSearchBar-0.7.5.aar/ae8d1746ccf26d3212b493b1985aed31/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.1] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/7feb3cd54ebc069d1317f4da18a8189f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/7feb3cd54ebc069d1317f4da18a8189f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/66fb70b2a5bd501c61462263dcddbad4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/66fb70b2a5bd501c61462263dcddbad4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/26928bca9637c82547f16476edaa9609/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/26928bca9637c82547f16476edaa9609/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.4.aar/58910988fdca598f7c50f09d3ef133f2/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.4.aar/58910988fdca598f7c50f09d3ef133f2/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/feb735cf774e683249328dbf6d84c23a/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/feb735cf774e683249328dbf6d84c23a/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/6391f102b29cb6bd2ea5bd6eb4adfb1d/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/6391f102b29cb6bd2ea5bd6eb4adfb1d/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/7572ae2e79a1c9aff59645c6c6653cd7/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/7572ae2e79a1c9aff59645c6c6653cd7/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:27.1.1] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/9a74e47cbd63e2ab6ec770d4b4a31b4b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/9a74e47cbd63e2ab6ec770d4b4a31b4b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android:flexbox:0.3.0] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/flexbox-0.3.0.aar/21421c067b42ac0beab98993e67afd7c/AndroidManifest.xml:23:5-25:41
+MERGED from [com.google.android:flexbox:0.3.0] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/flexbox-0.3.0.aar/21421c067b42ac0beab98993e67afd7c/AndroidManifest.xml:23:5-25:41
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/20ae8b4816795748ee162067f0103252/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/20ae8b4816795748ee162067f0103252/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/6844095ae8a38c1ddf1ad1424de5e960/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/6844095ae8a38c1ddf1ad1424de5e960/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/fb58f0624a32971209ea6a8a2c0eeee9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/fb58f0624a32971209ea6a8a2c0eeee9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/005986d92970a8a1d2a57e4439ac23a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/005986d92970a8a1d2a57e4439ac23a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/ac95915e810d695c4c52a2aa86e9f356/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/ac95915e810d695c4c52a2aa86e9f356/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/709110c3f8f3584dc6c29be3b98137f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/709110c3f8f3584dc6c29be3b98137f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/c4f54e7b21c287ed8f191ca29ab053fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/c4f54e7b21c287ed8f191ca29ab053fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/703d533196197859ac7100204b26d929/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/703d533196197859ac7100204b26d929/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/a8d8a72091d81e3c9afa58af5b9d510f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/a8d8a72091d81e3c9afa58af5b9d510f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/40f4a677903b656735b9d67b6adb84c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/40f4a677903b656735b9d67b6adb84c9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/fa0ddd8f9390f8b8127dc86dfda22e43/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/fa0ddd8f9390f8b8127dc86dfda22e43/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2861bf60a4fda0a17e16de5fe5f7797c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2861bf60a4fda0a17e16de5fe5f7797c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/80529cd20526e703c882cd19f14609a0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/80529cd20526e703c882cd19f14609a0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/4e8eb539334595b7efb199bf8c031e54/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/4e8eb539334595b7efb199bf8c031e54/AndroidManifest.xml:20:5-44
+INJECTED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml
+INJECTED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml
+		ADDED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml
+		ADDED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.4.aar/58910988fdca598f7c50f09d3ef133f2/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.4.aar/58910988fdca598f7c50f09d3ef133f2/AndroidManifest.xml:19:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.4.aar/58910988fdca598f7c50f09d3ef133f2/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.4.aar/58910988fdca598f7c50f09d3ef133f2/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.4.aar/58910988fdca598f7c50f09d3ef133f2/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/feb735cf774e683249328dbf6d84c23a/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/feb735cf774e683249328dbf6d84c23a/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/feb735cf774e683249328dbf6d84c23a/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/feb735cf774e683249328dbf6d84c23a/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/7572ae2e79a1c9aff59645c6c6653cd7/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/7572ae2e79a1c9aff59645c6c6653cd7/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/7572ae2e79a1c9aff59645c6c6653cd7/AndroidManifest.xml:20:20-65

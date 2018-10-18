@@ -1,0 +1,79 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/galGalgorenGoren/Documents/DEVELOPMENT/WhatsAround/app/src/main/res/values-sw600dp/booleans.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "56",
+                        "endColumns": "37",
+                        "endOffsets": "89"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "37",
+                        "endOffsets": "88"
+                    }
+                },
+                {
+                    "source": "/Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/66fb70b2a5bd501c61462263dcddbad4/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,193,263,337,413,472,543",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "119,188,258,332,408,467,538,606"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "93,162,231,301,375,451,510,581",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "157,226,296,370,446,505,576,644"
+                    }
+                },
+                {
+                    "source": "/Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/7feb3cd54ebc069d1317f4da18a8189f/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,115,185,256,328,386,444,550,614,677",
+                        "endLines": "2,3,4,5,6,7,8,9,10,14",
+                        "endColumns": "59,69,70,71,57,57,105,63,62,12",
+                        "endOffsets": "110,180,251,323,381,439,545,609,672,854"
+                    },
+                    "to": {
+                        "startLines": "11,12,13,14,15,16,17,18,25,26",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "649,709,779,850,922,980,1038,1144,1559,1622",
+                        "endLines": "11,12,13,14,15,16,17,18,25,29",
+                        "endColumns": "59,69,70,71,57,57,105,63,62,12",
+                        "endOffsets": "704,774,845,917,975,1033,1139,1203,1617,1799"
+                    }
+                },
+                {
+                    "source": "/Users/galGalgorenGoren/.gradle/caches/transforms-1/files-1.1/searchview-27.1.1.0.0.aar/a211f7effbfae9d76173d2a245262d7f/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,111,171,224,278,342",
+                        "endColumns": "55,59,52,53,63,63",
+                        "endOffsets": "106,166,219,273,337,401"
+                    },
+                    "to": {
+                        "startLines": "19,20,21,22,23,24",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "1208,1264,1324,1377,1431,1495",
+                        "endColumns": "55,59,52,53,63,63",
+                        "endOffsets": "1259,1319,1372,1426,1490,1554"
+                    }
+                }
+            ]
+        }
+    ]
+}

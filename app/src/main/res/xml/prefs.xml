@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="Settings">
+
+        <ListPreference
+            android:title="Search Units"
+            android:key="search_unites_key"
+            android:summary="Km"
+            android:entries="@array/search_unites"
+            android:entryValues="@array/search_unites_values" />
+
+
+        <com.example.galgoren.finalproject.SeekBarPreference
+            android:title="Radius"
+            android:key="radius_key"
+            android:defaultValue="2000"
+            android:max="5000" />
+
+
+    </PreferenceCategory>
+
+</PreferenceScreen>
